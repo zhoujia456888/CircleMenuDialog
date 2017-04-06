@@ -1,7 +1,7 @@
 # About
 可旋转的环形菜单弹出框。啊，就是一个好玩的弹出框而已。项目参考了https://github.com/gzu-liyujiang/CircleMenu。
 
-#Usage
+# Usage
 ```java
 String[] itemsRes=new String[]{"新建皮肤 ",
             "导入皮肤",
