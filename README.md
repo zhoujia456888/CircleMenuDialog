@@ -35,5 +35,5 @@ final CircleMenuDialog circleMenuDialog=new CircleMenuDialog(MainActivity.this);
 ```
 
 # Screenshots
-![效果图](/demo.png =250)
+![效果图](/demo.png =250x)
 
